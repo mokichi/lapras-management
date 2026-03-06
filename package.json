@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "gemini",
+    "lapras:open": "open https://lapras.com/cv"
+  },
+  "devDependencies": {
+    "@google/gemini-cli": "^0.32.1",
+    "@lapras-inc/lapras-mcp-server": "^0.6.0"
+  }
+}
