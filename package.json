@@ -1,10 +1,12 @@
 {
   "scripts": {
     "start": "gemini",
-    "lapras:open": "open https://lapras.com/cv"
+    "lapras:open": "open https://lapras.com/cv",
+    "resume:preview": "markserv outputs/resume.md"
   },
   "devDependencies": {
     "@google/gemini-cli": "^0.32.1",
-    "@lapras-inc/lapras-mcp-server": "^0.6.0"
+    "@lapras-inc/lapras-mcp-server": "^0.6.0",
+    "markserv": "^1.17.4"
   }
 }

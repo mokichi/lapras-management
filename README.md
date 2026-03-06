@@ -26,3 +26,11 @@ LAPRAS MCP Serverを使ってLAPRASの情報を取得・更新できる。
 ## 職務経歴書の出力
 
 TBD
+
+## 職務経歴書のプレビュー
+
+```bash
+npm run resume:preview
+```
+
+ブラウザでプレビューが表示される。
