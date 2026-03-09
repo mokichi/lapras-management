@@ -1,9 +1,7 @@
 {
   "scripts": {
     "start": "gemini",
-    "lapras:open": "open https://lapras.com/cv",
-    "resume:build": "gemini -y -p '職務経歴書を出力して'",
-    "resume:preview": "markserv outputs/resume.md"
+    "preview": "markserv outputs/resume.md"
   },
   "devDependencies": {
     "@google/gemini-cli": "^0.32.1",

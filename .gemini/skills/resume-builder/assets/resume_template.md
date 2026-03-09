@@ -1,14 +1,16 @@
 # 職務経歴書
+{{personalityのはじめに}}
+
+最終更新日: {{today}}
 
 ## 基本情報
-- **名前**: 齋藤 和也（さいとう かずや）
-- **生年月日**: 1988年1月29日
-- **住所**: 東京都
-- **連絡先**: saito@smartalgorithm.co.jp
-- **GitHub**: [mokichi](https://github.com/mokichi)
-- **Qiita**: [mokichi](https://qiita.com/mokichi)
-- **Speaker Deck**: [mokichi](https://speakerdeck.com/{{speaker_deck_id}})
-- **X(Twitter)**: [@mokichi_s12m](https://x.com/mokichi_s12m)
+{{personalityの基本情報}}
+
+## 技術活動 / 外部リンク
+{{personalityの技術活動 / 外部リンク}}
+
+## 著書・執筆実績
+{{personalityの著書・執筆実績}}
 
 ## 職務要約
 {{job_summary}}
@@ -25,13 +27,10 @@
 
 {{description}}
 
----
 {{/each}}
 
 ## 学歴
-### 九州工業大学 情報工学部 知能情報工学科 情報創生工学専攻
-- **期間**: 2006年4月 〜 2010年3月
-- **学位**: 学士（工学）
+{{personalityの学歴}}
 
 ## 今後の展望
 {{want_to_do}}
