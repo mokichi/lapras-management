@@ -25,7 +25,13 @@ LAPRAS MCP Serverを使ってLAPRASの情報を取得・更新できる。
 
 ## 職務経歴書の出力
 
-TBD
+`resume-builder` スキルを使う。
+
+```bash
+npm run resume:build
+```
+
+`outputs/resume.md` に出力される。
 
 ## 職務経歴書のプレビュー
 
