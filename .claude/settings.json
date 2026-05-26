@@ -1,0 +1,9 @@
+{
+  "enabledMcpjsonServers": [
+    "lapras"
+  ],
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": ["mcp__lapras__*"]
+  }
+}

@@ -1,5 +1,5 @@
 # はじめに
-本職務経歴書は、日々のエンジニアリング活動を「生きたデータ」として管理する試みの一環として、LAPRASの情報を基にAIエージェント（Gemini CLI）を用いて自動生成・整形したものです。GitHubリポジトリ [mokichi/lapras-management](https://github.com/mokichi/lapras-management) で管理しています。
+本職務経歴書は、日々のエンジニアリング活動を「生きたデータ」として管理する試みの一環として、LAPRASの情報を基にAIエージェント（Claude Code）を用いて自動生成・整形したものです。GitHubリポジトリ [mokichi/lapras-management](https://github.com/mokichi/lapras-management) で管理しています。
 
 単なる静的な書類ではなく、自身の活動記録（Single Source of Truth）から最新の情報を即座に出力可能な「Resume as Code」の形態をとっています。
 

@@ -5,8 +5,7 @@
       "args": ["-y", "@lapras-inc/lapras-mcp-server"],
       "env": {
         "LAPRAS_API_KEY": "${LAPRAS_API_KEY}"
-      },
-      "trust": true
+      }
     }
   }
 }

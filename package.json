@@ -1,11 +1,9 @@
 {
   "scripts": {
-    "start": "gemini",
     "preview": "markserv $(ls -t outputs/resume_*.md | head -n 1)",
     "pdf": "md-to-pdf $(ls -t outputs/resume_*.md | head -n 1)"
   },
   "devDependencies": {
-    "@google/gemini-cli": "^0.35.3",
     "@lapras-inc/lapras-mcp-server": "^0.6.0",
     "markserv": "^1.17.4",
     "md-to-pdf": "^5.2.5"
